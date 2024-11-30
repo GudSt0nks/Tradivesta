@@ -1,12 +1,12 @@
 {
     "scripts": {
-      "dev": "next",
-      "build": "next build",
-      "start": "next start"
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
     },
     "dependencies": {
-      "mongodb": "^6.11.0",
-      "next": "^15.0.3"
+        "mongodb": "^6.11.0",
+        "next": "^15.0.3",
+        "vercel": "^28.18.5"
     }
-  }
-  
+}
